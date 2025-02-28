@@ -1,4 +1,4 @@
-# OSInAppBrowserLib
+# OSInAppBrowserLib (OSAdvDev)
 
 The `OSInAppBrowserLib-iOS` is a library built using `Swift` that provides a web browser view to load a web page within a Mobile Application. It behaves as a standard web browser and is useful to load untrusted content without risking your application's security.
 
